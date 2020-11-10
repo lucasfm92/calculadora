@@ -1,0 +1,50 @@
+#visor {
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  height: 60px;
+  font-size: 20px;
+  width: 270px;
+  color: white;
+  border-radius: 10px;
+}
+
+table {
+  margin: 10 auto 0 auto;
+}
+
+form fieldset {
+  margin: 50px auto 0px auto;
+  width: 20%;
+  border: solid black 1px;
+  padding: 3%;
+  margin-bottom: 10px;
+  padding-right: 59px;
+}
+
+form input {
+  width: 100%;
+  border: solid #ccc 1px;
+  font-size: 11px;
+  margin-bottom: 10px;
+}
+
+form input.num {
+  display: block;
+  width: 65px;
+  height: 65px;
+  background-color:rgb(238, 119, 9);
+  border: seashell;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+form input.oper {
+  display: block;
+  width: 65px;
+  height: 65px;
+  background-color: #bdb7b7;
+  border: seashell;
+  border-radius: 10px;
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+}
